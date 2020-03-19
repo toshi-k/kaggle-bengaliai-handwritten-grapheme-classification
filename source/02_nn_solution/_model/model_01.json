@@ -1,0 +1,7 @@
+{
+  "model_name": "model_01",
+  "architecture": "resnet34",
+  "seed": 1048,
+  "img_type": "square_resize",
+  "multi_sample_aug": "mixup"
+}
